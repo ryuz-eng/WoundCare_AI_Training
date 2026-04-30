@@ -1,5 +1,5 @@
 """
-Wound Classification Training Script (Windows-friendly, fast)
+Wound Classification Training Script
 Run: python -u train_classification.py --crop-root ... --save-path ...
 
 Key flags:
