@@ -1,5 +1,5 @@
 """
-Wound Segmentation Training Script (Enhanced for FYP Report)
+Wound Segmentation Training Script
 Run: python -u train_segmentation_enhanced.py --data-root ... --mask-root ... --save-dir ... --exp-name S1_baseline
 
 Features:
