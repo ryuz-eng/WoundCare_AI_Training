@@ -1,5 +1,5 @@
 """
-Wound Classification Training Script (Enhanced for FYP Report)
+Wound Classification Training Script
 Run: python -u train_classification_enhanced.py --crop-root ... --save-dir ... --exp-name C1_baseline
 
 Features:
